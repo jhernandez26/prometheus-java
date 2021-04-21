@@ -1,3 +1,0 @@
-java_cpu{process="Jps", pid="855487"} 0
-java_cpu{process="JConsole", pid="658447"} 1.4
-java_cpu{process="Bootstrap", pid="3224"} 0.2
